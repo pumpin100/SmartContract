@@ -1,0 +1,1 @@
+***This is a simply smart Contract for a trading business called AZA.***
